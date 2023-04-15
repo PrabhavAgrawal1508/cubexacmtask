@@ -1,0 +1,164 @@
+.imageprimary{position: absolute;
+    width: 470px;
+    height: 421.84px;
+    left: calc(50% - 470px/2 + 295px);
+    top: calc(50% - 421.84px/2);
+}
+.head_text_wrapper{position: absolute;
+    width: 550px;
+    height: 492px;
+    left: 0px;
+    top: 4.92px;
+    }
+
+ .primary_main_container{
+    position: absolute;
+width: 1140px;
+height: 501.84px;
+left: 390px;
+top: 209.19px;
+ }   
+ 
+ .buttonicon{/* a.button-right-icon */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 12px 16px 12px 23px;
+    gap: 15.92px;
+    
+    position: absolute;
+    width: 166.92px;
+    height: 48px;
+    left: 0px;
+    top: calc(50% - 48px/2 + 222px);
+    
+    background: #C2FF66;
+    border-radius: 6px;}
+ .buttontext{
+    width: 88px;
+    height: 24px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.176px;
+    
+    color: #18181B;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.arrowlogo{
+    width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+
+
+.maintext{
+    position: absolute;
+    width: 519.61px;
+    height: 223px;
+    left: 0px;
+    top: 20px;
+    
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 80px;
+    line-height: 88px;
+    /* or 110% */
+    display: flex;
+    align-items: center;
+    letter-spacing: -3.2px;
+    
+    color: #18181B;
+    }
+.subtext{position: absolute;
+    width: 526.49px;
+    height: 60px;
+    left: 0px;
+    top: 346px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 36px;
+    /* or 180% */
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.4px;
+    
+    color: #18181B;
+    }
+
+    .statusdes{
+        position: absolute;
+        width: 550px;
+        height: 12px;
+        left: 0px;
+        top: 0px;
+        
+    }
+
+    .redshow{position: absolute;
+        width: 12px;
+        height: 12px;
+        left: 7px;
+        top: 0px;
+        
+        background: #FF5A47;
+        border-radius: 12px;}
+
+    .yellowshow{
+
+        position: absolute;
+width: 12px;
+height: 12px;
+left: 39px;
+top: 0px;
+
+background: #FFC247;
+border-radius: 12px;
+    }
+
+
+
+    .greenshow{
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 71px;
+top: 0px;
+
+background: #2CCF17;
+border-radius: 12px;
+    }
+
+.arrowlogo{position: absolute;
+    left: 79.17%;
+    right: 9.17%;
+    top: 29.17%;
+    bottom: 29.17%;
+    
+    }
