@@ -21,7 +21,7 @@ function Navigation_bar() {
             <p className='abouttext'>About</p>
             <p className='pricingtext'>Pricing</p>
             <div className='dropdownpages'>
-              <p className="pagestext">pages</p>
+              <p className="pagestext">Pages</p>
               <img src={arrow} className='arrowclass'/>
             </div>
           </div>

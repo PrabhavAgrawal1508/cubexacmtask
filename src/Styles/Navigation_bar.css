@@ -208,7 +208,7 @@ flex-grow: 0;}
 .homebutton{display: flex;
     flex-direction: row;
     align-items: flex-start;
-    padding: 8px 15.2969px 8px 16px;
+    padding: 8px 3.2969px 8px 15px;
     
     position: absolute;
     width: 70.3px;
@@ -248,7 +248,7 @@ flex-grow: 0;}
     
     position: absolute;
     width: 83.83px;
-    height: 40px;
+    height: 50px;
     left: calc(50% - 83.83px/2 + 179.45px);
     top: 0px;
     
@@ -256,13 +256,13 @@ flex-grow: 0;}
 .pagestext{
 
 width: 41px;
-height: 24px;
+height: 900px;
 
 font-family: 'Inter';
 font-style: normal;
 font-weight: 500;
 font-size: 14px;
-line-height: 24px;
+line-height: 900px;
 /* identical to box height, or 171% */
 display: flex;
 align-items: center;
