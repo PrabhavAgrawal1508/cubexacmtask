@@ -12,7 +12,7 @@ function primarycontent() {
             <a href='/' className='buttonicon'><p className='buttontext'>Get Started</p>
             <img src={right} className='arrowlogo'></img></a>
             <p className='subtext'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut metus nunc, fermentum id ex non, dapibus hendrerit eros.</p>
-            <p className='maintext'>Cubex makes it easy to run your business.</p>
+            <p className='maintextprimary'>Cubex makes it easy to run your business.</p>
             <div className='statusdes'><img src={red} className='redshow'/>
                 <img src={yellow} className='yellowshow'/>
                 <img src={green} className='greenshow'/>

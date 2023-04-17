@@ -1,0 +1,141 @@
+.logostates{
+    
+    position: absolute;
+    width: 1280px;
+    height: 114px;
+    left: 320px;
+    top: 807.03px;
+    
+    border: 1px solid #E4E4E7;
+    border-radius: 12px;
+
+}
+.amplogoplace{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 96px;
+height: 20px;
+left: calc(50% - 96px/2 + 539.55px);
+top: calc(50% - 20px/2);
+
+}
+
+.logodiv1lb{position: absolute;
+width: 1px;
+height: 80px;
+left: 1071.14px;
+top: calc(50% - 80px/2); 
+background: #E4E4E7;
+    }
+
+.rpublicaplace{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 122px;
+height: 12px;
+left: calc(50% - 122px/2 + 323.72px);
+top: calc(50% - 12px/2);
+
+}
+.logodiv2lb{
+    position: absolute;
+    width: 1px;
+    height: 80px;
+    left: 855.31px;
+    top: calc(50% - 80px/2);
+    
+    background: #E4E4E7;
+
+}
+
+.veroxplace{
+   /* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 104px;
+height: 12px;
+left: calc(50% - 104px/2 + 107.89px);
+top: calc(50% - 12px/2);
+}
+.logodiv3{
+    position: absolute;
+    width: 1px;
+    height: 80px;
+    left: 639.48px;
+    top: calc(50% - 80px/2);
+    
+    background: #E4E4E7;   
+
+}
+.logodiv4{
+    position: absolute;
+    width: 1px;
+    height: 80px;
+    left: 423.66px;
+    top: calc(50% - 80px/2);
+    
+    background: #E4E4E7;
+
+
+}
+.logodiv5{position: absolute;
+    width: 1px;
+    height: 80px;
+    left: 207.83px;
+    top: calc(50% - 80px/2);
+    
+    background: #E4E4E7;}
+
+.xpengplace{
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 112px;
+height: 12px;
+left: calc(50% - 112px/2 - 107.94px);
+top: calc(50% - 12px/2);
+
+} 
+.tribalplace{ /*Autolayout*/
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: absolute;
+    width: 72px;
+    height: 16px;
+    left: calc(50% - 72px/2 - 323.77px);
+    top: calc(50% - 16px/2);
+    
+
+}
+.invoiceplace{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 98px;
+height: 16px;
+left: calc(50% - 98px/2 - 539.59px);
+top: calc(50% - 16px/2);
+}
