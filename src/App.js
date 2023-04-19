@@ -7,6 +7,7 @@ import Logobox from './Components/logobox';
 import Customer from './Components/customer_section';
 import Featuremain2 from './Components/featuremain2';
 import Banner from './Components/banner';
+import Integration_block from './Components/integration_block'
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <Customer/>
       <Featuremain2/>
       <Banner/>
+      <Integration_block/>
       
       
 

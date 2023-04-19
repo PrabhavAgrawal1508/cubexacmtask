@@ -1,0 +1,613 @@
+.integblock_main{position: absolute;
+    width: 840px;
+    height: 647.94px;
+    left: calc(50% - 840px/2);
+    top: 2854.78px;
+    }
+
+.integtext_main{position: absolute;
+    width: 588px;
+    height: 174.77px;
+    left: calc(50% - 588px/2);
+    top: 0px;}
+.integtext_head{position: absolute;
+    width: 564.15px;
+    height: 128.19px;
+    left: 12.02px;
+    top: 43.39px;
+    
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 56px;
+    line-height: 67px;
+    /* or 120% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -1.68px;
+    
+    color: #18181B;
+    }
+.integtext_subhead{ position: absolute;
+    width: 152.39px;
+    height: 20px;
+    left: 217.91px;
+    top: 6px;
+    
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    /* or 180% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 1.44px;
+    text-transform: uppercase;
+    
+    color: #696977;
+    }
+
+.integblock_grid{position: absolute;
+    width: 840px;
+    height: 417.17px;
+    left: 0px;
+    top: 230.77px;
+    }
+
+.integfigma{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 400px;
+    height: 112.39px;
+    left: 0px;
+    top: 0px;
+    
+    border: 1px solid #E4E4E7;
+    border-radius: 12px;}
+.buttoncardfigma{box-sizing: border-box;
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 335px;
+    top: calc(50% - 40px/2 - 0.01px);
+    
+    border: 1px solid #E4E4E7;
+    border-radius: 40px;}
+.integfigmadetail{
+    position: absolute;
+    width: 150.55px;
+    height: 62.39px;
+    left: 25px;
+    top: calc(50% - 62.39px/2);}
+.figlogo{display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: calc(50% - 48px/2 - 51.27px);
+    top: calc(50% - 48px/2 - 0.01px);
+    }
+.textsetfigma{display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0px 0.796875px;
+    
+    position: absolute;
+    width: 87px;
+    height: 63.39px;
+    left: 64px;
+    top: calc(50% - 63.39px/2 - 0.5px);
+    }
+.figmahead{width: 66px;
+    height: 34px;
+    
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 34px;
+    /* identical to box height, or 140% */
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.72px;
+    
+    color: #18181B;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: -0.40625px 0px;}
+.figmasubhead{width: 87px;
+    height: 29px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    /* identical to box height, or 180% */
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.176px;
+    
+    color: #4D4D56;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;}
+
+.integdiscord{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 400px;
+    height: 112.39px;
+    left: 440px;
+    top: 0px;
+    
+    border: 1px solid #E4E4E7;
+    border-radius: 12px;}
+.buttoncarddiscord{box-sizing: border-box;
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 335px;
+    top: calc(50% - 40px/2 - 0.01px);
+    
+    border: 1px solid #E4E4E7;
+    border-radius: 40px;}
+.integdiscorddetail{position: absolute;
+    width: 159.03px;
+    height: 62.39px;
+    left: 25px;
+    top: calc(50% - 62.39px/2);
+    }
+.discordlogo{display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: calc(50% - 48px/2 - 55.52px);
+    top: calc(50% - 48px/2 - 0.01px);
+    }
+.textsetdiscord{display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0px 0.796875px;
+    
+    position: absolute;
+    width: 96px;
+    height: 63.39px;
+    left: 64px;
+    top: calc(50% - 63.39px/2 - 0.5px);}
+.discordhead{width: 81px;
+    height: 34px;
+    
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 34px;
+    /* identical to box height, or 140% */
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.72px;
+    
+    color: #18181B;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: -0.40625px 0px;}
+.discordsubhead{ width: 96px;
+    height: 29px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    /* identical to box height, or 180% */
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.176px;
+    
+    color: #4D4D56;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;}
+
+
+
+.integmailchimp{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 400px;
+    height: 112.39px;
+    left: 0px;
+    top: 152.39px;
+    
+    border: 1px solid #E4E4E7;
+    border-radius: 12px;}
+.buttoncardmailc{box-sizing: border-box;
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 335px;
+    top: calc(50% - 40px/2 - 0.01px);
+    
+    border: 1px solid #E4E4E7;
+    border-radius: 40px;}
+.integmailchimpdetail{
+    position: absolute;
+    width: 169.22px;
+    height: 62.39px;
+    left: 25px;
+    top: calc(50% - 62.39px/2);}
+.mailclogo{display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: calc(50% - 48px/2 - 60.61px);
+    top: calc(50% - 48px/2 - 0.01px);}
+.textsetmailc{display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0px 0.796875px;
+    
+    position: absolute;
+    width: 106px;
+    height: 63.39px;
+    left: 64px;
+    top: calc(50% - 63.39px/2 - 0.5px);
+    }
+.mailchead{
+    width: 136px;
+    height: 34px;
+    
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 34px;
+    /* identical to box height, or 140% */
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.72px;
+    
+    color: #18181B;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: -0.40625px 0px;}
+.mailcsubhead{width: 91px;
+    height: 29px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    /* identical to box height, or 180% */
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.176px;
+    
+    color: #4D4D56;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;}
+
+
+.integfacebook{box-sizing: border-box;
+
+    position: absolute;
+    width: 400px;
+    height: 112.39px;
+    left: 440px;
+    top: 152.39px;
+    
+    border: 1px solid #E4E4E7;
+    border-radius: 12px;}
+.buttoncardfacebook{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 335px;
+    top: calc(50% - 40px/2 - 0.01px);
+    
+    border: 1px solid #E4E4E7;
+    border-radius: 40px;}
+.integfacebookdetail{position: absolute;
+    width: 166.06px;
+    height: 62.39px;
+    left: 25px;
+    top: calc(50% - 62.39px/2);
+    }
+.facebooklogo{display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: calc(50% - 48px/2 - 159.03px);
+    top: calc(50% - 48px/2 - 0.01px);
+    
+    }
+.textsetfacebook{display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0px 0.796875px;
+    
+    position: absolute;
+    width: 103px;
+    height: 63.39px;
+    left: 64px;
+    top: calc(50% - 63.39px/2 - 0.5px);}
+.facebookhead{
+    width: 103px;
+    height: 34px;
+    
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 34px;
+    /* identical to box height, or 140% */
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.72px;
+    
+    color: #18181B;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: -0.40625px 0px;}
+.facebooksubhead{
+    width: 95px;
+    height: 29px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    /* identical to box height, or 180% */
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.176px;
+    
+    color: #4D4D56;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;}
+
+
+.integtrello{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 400px;
+    height: 112.39px;
+    left: 0px;
+    top: 304.78px;
+    
+    border: 1px solid #E4E4E7;
+    border-radius: 12px;
+    }
+.buttoncardtrello{box-sizing: border-box;
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 335px;
+    top: calc(50% - 40px/2 - 0.01px);
+    
+    border: 1px solid #E4E4E7;
+    border-radius: 40px;}
+.integtrellodetail{
+    position: absolute;
+    width: 159.73px;
+    height: 62.39px;
+    left: 25px;
+    top: calc(50% - 62.39px/2);
+    }
+.trellologo{display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: calc(50% - 48px/2 - 55.87px);
+    top: calc(50% - 48px/2 - 0.01px);}
+.textsettrello{display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0px 0.796875px;
+    
+    position: absolute;
+    width: 96px;
+    height: 63.39px;
+    left: 64px;
+    top: calc(50% - 63.39px/2 - 0.5px);}
+.trellohead{
+    width: 57px;
+    height: 34px;
+    
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 34px;
+    /* identical to box height, or 140% */
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.72px;
+    
+    color: #18181B;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: -0.40625px 0px;}
+.trellosubhead{width: 96px;
+    height: 29px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    /* identical to box height, or 180% */
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.176px;
+    
+    color: #4D4D56;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;}
+
+
+
+.integslack{box-sizing: border-box;
+
+    position: absolute;
+    width: 400px;
+    height: 112.39px;
+    left: 440px;
+    top: 304.78px;
+    
+    border: 1px solid #E4E4E7;
+    border-radius: 12px;}
+.buttoncardslack{box-sizing: border-box;
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 335px;
+    top: calc(50% - 40px/2 - 0.01px);
+    
+    border: 1px solid #E4E4E7;
+    border-radius: 40px;}
+.integslackdetail{
+    position: absolute;
+    width: 179.66px;
+    height: 62.39px;
+    left: 25px;
+    top: calc(50% - 62.39px/2);
+    }
+.slacklogo{display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: calc(50% - 48px/2 - 65.83px);
+    top: calc(50% - 48px/2 - 0.01px);
+    }
+.textsetslack{display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0px 0.796875px;
+    
+    position: absolute;
+    width: 116px;
+    height: 63.39px;
+    left: 64px;
+    top: calc(50% - 63.39px/2 - 0.5px);
+    }
+.slackhead{
+    width: 58px;
+    height: 34px;
+    
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 34px;
+    /* identical to box height, or 140% */
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.72px;
+    
+    color: #18181B;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: -0.40625px 0px;}
+.slacksubhead{width: 116px;
+    height: 29px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    /* identical to box height, or 180% */
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.176px;
+    
+    color: #4D4D56;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;}
