@@ -5,6 +5,7 @@ import Navigation_bar from './Components/Navigation_bar';
 import Primarycontent from './Components/primarycontent';
 import Logobox from './Components/logobox';
 import Customer from './Components/customer_section';
+import Featuremain2 from './Components/featuremain2';
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <Primarycontent/>
       <Logobox/>
       <Customer/>
+      <Featuremain2/>
       
       
 

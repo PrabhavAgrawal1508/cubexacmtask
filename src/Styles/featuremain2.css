@@ -1,0 +1,233 @@
+.feature2layout{
+    position: absolute;
+width: 1140px;
+height: 426.73px;
+left: 401px;
+top: 1895px;
+
+
+}
+.feature2mainphoto{
+    position: absolute;
+width: 443.5px;
+height: 392.42px;
+left: calc(50% - 443.5px/2 - 295px);
+top: calc(50% - 392.42px/2);
+
+}
+.feature2boxlayout{
+
+position: absolute;
+height: 426.73px;
+left: 700px;
+right: 0px;
+top: 0px;
+
+}
+.feature2buttonmain{
+    box-sizing: border-box;
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 12px 16px 12px 23px;
+    gap: 7.92px;
+    
+    position: absolute;
+    width: 158.92px;
+    height: 48px;
+    left: 0px;
+    top: calc(50% - 48px/2 + 189.37px);
+    
+    border: 1px solid #18181B;
+    border-radius: 6px;
+
+}
+.feature2buttontext{        
+    width: 88px;
+    height: 24px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.176px;
+    
+    color: #18181B;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+}
+.feature2buttonpng{
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+
+}
+.feature2head{
+
+    position: absolute;
+    width: 358.72px;
+    height: 195.38px;
+    left: 0px;
+    top: 3px;
+    
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 56px;
+    line-height: 67px;
+    /* or 120% */
+    display: flex;
+    align-items: center;
+    letter-spacing: -1.68px;
+    
+    color: #18181B;
+    
+
+
+
+}
+.feature2subtext{
+
+position: absolute;
+width: 440px;
+height: 121.17px;
+left: 0px;
+top: 225.56px;
+
+}
+.subtextfeature1{
+    position: absolute;
+width: 440px;
+height: 32.39px;
+left: 0px;
+top: 0px;
+
+}
+.feature1text{
+    position: absolute;
+width: 336px;
+height: 33px;
+left: 32px;
+top: -1px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 32px;
+/* identical to box height, or 180% */
+display: flex;
+align-items: center;
+letter-spacing: -0.27px;
+
+color: #18181B;
+
+}
+.checkbox1{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: calc(50% - 24px/2 - 0.01px);
+
+
+}
+.subtextfeature2{
+    position: absolute;
+    width: 440px;
+    height: 32.39px;
+    left: 0px;
+    top: 44.39px;
+    
+
+}
+.feature2text{
+    position: absolute;
+width: 336px;
+height: 33px;
+left: 32px;
+top: -1px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 32px;
+/* identical to box height, or 180% */
+display: flex;
+align-items: center;
+letter-spacing: -0.27px;
+
+color: #18181B;
+
+
+}
+.checkbox2{
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: calc(50% - 24px/2 - 0.01px);
+
+
+
+}
+.subtextfeature3{
+    position: absolute;
+    width: 440px;
+    height: 32.39px;
+    left: 0px;
+    top: 88.78px;
+    
+
+}
+.feature3text{
+    position: absolute;
+width: 336px;
+height: 33px;
+left: 32px;
+top: -1px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 32px;
+/* identical to box height, or 180% */
+display: flex;
+align-items: center;
+letter-spacing: -0.27px;
+
+color: #18181B;
+
+}
+.checkbox3{
+
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: calc(50% - 24px/2 - 0.01px);
+
+}
