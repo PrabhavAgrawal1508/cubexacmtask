@@ -6,6 +6,7 @@ import Primarycontent from './Components/primarycontent';
 import Logobox from './Components/logobox';
 import Customer from './Components/customer_section';
 import Featuremain2 from './Components/featuremain2';
+import Banner from './Components/banner';
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <Logobox/>
       <Customer/>
       <Featuremain2/>
+      <Banner/>
       
       
 
