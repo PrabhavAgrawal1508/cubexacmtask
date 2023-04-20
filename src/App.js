@@ -8,7 +8,7 @@ import Customer from './Components/customer_section';
 import Featuremain2 from './Components/featuremain2';
 import Banner from './Components/banner';
 import Integration_block from './Components/integration_block'
-
+import Footer from './Components/footer';
 
 function App() {
   return (
@@ -21,7 +21,7 @@ function App() {
       <Featuremain2/>
       <Banner/>
       <Integration_block/>
-      
+      <Footer/>
       
 
 
